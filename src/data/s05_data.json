@@ -1,0 +1,23 @@
+{
+  "trends": [
+    { "year": 2020, "female": 80.0, "informal": 67.5 },
+    { "year": 2021, "female": 88.0, "informal": 77.0 },
+    { "year": 2022, "female": 60.9, "informal": 42.2 },
+    { "year": 2023, "female": 63.8, "informal": 48.6 },
+    { "year": 2024, "female": 68.0, "informal": 53.0 }
+  ],
+  "age_groups": [
+    { "group": "20–29", "label": "Usia 20–29 Tahun", "pct": 45.49, "count": 45, "highlight": true, "color": "#d95f43" },
+    { "group": "30–39", "label": "Usia 30–39 Tahun", "pct": 25.38, "count": 25, "highlight": false, "color": "#475569" },
+    { "group": "40–49", "label": "Usia 40–49 Tahun", "pct": 17.38, "count": 17, "highlight": false, "color": "#64748b" },
+    { "group": "<20", "label": "Usia <20 Tahun", "pct": 7.00, "count": 7, "highlight": false, "color": "#94a3b8" },
+    { "group": "50–59", "label": "Usia 50–59 Tahun", "pct": 4.33, "count": 5, "highlight": false, "color": "#cbd5e1" },
+    { "group": "60+", "label": "Usia 60+ Tahun", "pct": 0.43, "count": 1, "highlight": false, "color": "#e2e8f0" }
+  ],
+  "region": {
+    "desa_pct": 55.36,
+    "desa_count": 55,
+    "kota_pct": 44.64,
+    "kota_count": 45
+  }
+}

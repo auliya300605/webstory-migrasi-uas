@@ -1,0 +1,24 @@
+{
+  "origin": {
+    "name": "Indonesia",
+    "city": "Jakarta",
+    "coords": [106.8456, -6.2088]
+  },
+  "destinations": [
+    { "id": "TWN", "name": "Taiwan", "city": "Taipei", "coords": [121.5654, 25.0330], "count": 83216, "region": "Asia Timur", "male_pct": 21.6, "female_pct": 78.4, "sector": "Caregiver & Manufaktur" },
+    { "id": "MYS", "name": "Malaysia", "city": "Kuala Lumpur", "coords": [101.6869, 3.1390], "count": 72260, "region": "Asia Tenggara", "male_pct": 66.4, "female_pct": 33.6, "sector": "Perkebunan & Konstruksi" },
+    { "id": "HKG", "name": "Hong Kong", "city": "Hong Kong", "coords": [114.1694, 22.3193], "count": 65916, "region": "Asia Timur", "male_pct": 1.0, "female_pct": 99.0, "sector": "Domestik / Jasa Rumah Tangga" },
+    { "id": "KOR", "name": "Korea Selatan", "city": "Seoul", "coords": [126.9780, 37.5665], "count": 12580, "region": "Asia Timur", "male_pct": 90.0, "female_pct": 10.0, "sector": "Manufaktur & Perikanan (G to G)" },
+    { "id": "JPN", "name": "Jepang", "city": "Tokyo", "coords": [139.6503, 35.6762], "count": 9673, "region": "Asia Timur", "male_pct": 75.0, "female_pct": 25.0, "sector": "Specified Skilled Worker (SSW)" },
+    { "id": "SGP", "name": "Singapura", "city": "Singapura", "coords": [103.8198, 1.3521], "count": 7898, "region": "Asia Tenggara", "male_pct": 5.0, "female_pct": 95.0, "sector": "Caregiver & Domestik" },
+    { "id": "SAU", "name": "Arab Saudi", "city": "Riyadh", "coords": [46.6753, 24.7136], "count": 6310, "region": "Timur Tengah", "male_pct": 15.0, "female_pct": 85.0, "sector": "Domestik & Hospitality" },
+    { "id": "ITA", "name": "Italia", "city": "Roma", "coords": [12.4964, 41.9028], "count": 3519, "region": "Eropa", "male_pct": 60.0, "female_pct": 40.0, "sector": "Perhotelan & Spa Therapist" },
+    { "id": "BRN", "name": "Brunei Darussalam", "city": "Bandar Seri Begawan", "coords": [114.9398, 4.9031], "count": 2872, "region": "Asia Tenggara", "male_pct": 70.0, "female_pct": 30.0, "sector": "Konstruksi & Jasa" },
+    { "id": "TUR", "name": "Turki", "city": "Ankara", "coords": [32.8597, 39.9334], "count": 2289, "region": "Timur Tengah", "male_pct": 20.0, "female_pct": 80.0, "sector": "Terapis Spa & Perhotelan" },
+    { "id": "POL", "name": "Polandia", "city": "Warsawa", "coords": [21.0122, 52.2297], "count": 1524, "region": "Eropa", "male_pct": 85.0, "female_pct": 15.0, "sector": "Manufaktur & Pengolahan Makanan" },
+    { "id": "ARE", "name": "Uni Emirat Arab", "city": "Abu Dhabi", "coords": [54.3773, 24.4539], "count": 976, "region": "Timur Tengah", "male_pct": 30.0, "female_pct": 70.0, "sector": "Perhotelan & Restoran" },
+    { "id": "PNG", "name": "Papua Nugini", "city": "Port Moresby", "coords": [147.1803, -9.4438], "count": 634, "region": "Asia-Pasifik", "male_pct": 90.0, "female_pct": 10.0, "sector": "Perkebunan & Kehutanan" },
+    { "id": "HUN", "name": "Hungaria", "city": "Budapest", "coords": [19.0402, 47.4979], "count": 447, "region": "Eropa", "male_pct": 80.0, "female_pct": 20.0, "sector": "Manufaktur Elektronik" },
+    { "id": "KWT", "name": "Kuwait", "city": "Kuwait City", "coords": [47.9774, 29.3759], "count": 425, "region": "Timur Tengah", "male_pct": 20.0, "female_pct": 80.0, "sector": "Kesehatan & Domestik" }
+  ]
+}

@@ -1,0 +1,47 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --category-blue: #4477AA;
+  --category-red: #EE6677;
+  --category-green: #228833;
+  --category-yellow: #CCBB44;
+  --category-cyan: #66CCEE;
+  --category-purple: #AA3377;
+  --category-gray: #BBBBBB;
+  --color-black: #282828;
+  --color-white: #ffffff;
+  --color-bg-clean: #ffffff;
+  --color-tan: #f7f5f0;
+  --color-primary: #d95f43;
+  --color-secondary: #e79a3c;
+  --color-accent-blue: #3c76a5;
+  --color-accent-teal: #4ea59f;
+  --color-gray-50: #fafafa;
+  --color-gray-100: #f2f2f2;
+  --color-gray-200: #e5e5e5;
+  --color-gray-300: #d4d4d4;
+  --color-gray-500: #8a8a8a;
+  --color-gray-700: #404040;
+  --color-gray-900: #1f1f1f;
+  --12px: 0.75rem;
+  --14px: 0.875rem;
+  --16px: 1rem;
+  --18px: 1.125rem;
+  --20px: 1.25rem;
+  --22px: 1.375rem;
+  --24px: 1.5rem;
+  --28px: 1.75rem;
+  --32px: 2rem;
+  --36px: 2.25rem;
+  --40px: 2.5rem;
+  --44px: 2.75rem;
+  --48px: 3rem;
+  --56px: 3.5rem;
+  --64px: 4rem;
+  --80px: 5rem;
+  --96px: 6rem;
+  --112px: 7rem;
+  --128px: 8rem;
+}
